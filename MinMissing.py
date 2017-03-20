@@ -3,6 +3,7 @@ Created on Feb 23, 2017
 
 @author: Daniel
 '''
+# another just for fun testbut now I want this on a seperate branch, lets see!?
 import itertools
 
 def solution(A):
