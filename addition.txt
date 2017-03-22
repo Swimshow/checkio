@@ -1,2 +1,6 @@
 This is nothing but it is definitely new!
+
+Im pretty sure I did it by file import existing projects selecting the root directory
+the same as where I connected from source tree. 
+
 now i shouljd have a problem.
